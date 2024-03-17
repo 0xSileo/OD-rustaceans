@@ -12,7 +12,8 @@ It's meant to be a shared notes repo. Users can add a question they have while p
 ### [Carbonable](https://app.onlydust.com/p/carbonable)
 ### [Cairo Native](https://app.onlydust.com/p/cairo-native)
 
-- [Sileo] Do I need a strong knowledge of MLIR to contribute ? 
+- [Sileo] Do I need a strong knowledge of MLIR to contribute ?
+- [g4titan] from what i can see, i think you really need it.
 
 ### [Cairo VM gs](https://app.onlydust.com/p/cairo-vm-gs)
 
